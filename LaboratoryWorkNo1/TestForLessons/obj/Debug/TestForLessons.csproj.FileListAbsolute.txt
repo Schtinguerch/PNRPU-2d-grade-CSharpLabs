@@ -1,0 +1,7 @@
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\bin\Debug\TestForLessons.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\bin\Debug\TestForLessons.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\bin\Debug\TestForLessons.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\obj\Debug\TestForLessons.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\obj\Debug\TestForLessons.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\obj\Debug\TestForLessons.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TestForLessons\obj\Debug\TestForLessons.pdb

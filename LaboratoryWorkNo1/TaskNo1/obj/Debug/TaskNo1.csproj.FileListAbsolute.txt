@@ -1,0 +1,15 @@
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\bin\Debug\TaskNo1.exe.config
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\bin\Debug\TaskNo1.exe
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\bin\Debug\TaskNo1.pdb
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.exe
+C:\Users\2sust\source\repos\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\bin\Debug\TaskNo1.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\bin\Debug\TaskNo1.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\bin\Debug\TaskNo1.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo1\obj\Debug\TaskNo1.csproj.SuggestedBindingRedirects.cache

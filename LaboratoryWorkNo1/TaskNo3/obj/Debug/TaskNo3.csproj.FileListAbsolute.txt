@@ -1,0 +1,8 @@
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\bin\Debug\TaskNo3.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\bin\Debug\TaskNo3.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\bin\Debug\TaskNo3.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\obj\Debug\TaskNo3.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\obj\Debug\TaskNo3.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\obj\Debug\TaskNo3.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\obj\Debug\TaskNo3.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo1\TaskNo3\obj\Debug\TaskNo3.csproj.SuggestedBindingRedirects.cache
