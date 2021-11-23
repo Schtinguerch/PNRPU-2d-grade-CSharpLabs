@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25c99935-b5ba-44a7-add8-7f88771b2b5b": {
+      "ProjectGuid": "25c99935-b5ba-44a7-add8-7f88771b2b5b",
+      "DisplayName": "LaboratoryWorkNo9",
+      "ColorIndex": 0
+    },
+    "3133f95b-6c0f-4fee-9c04-5d4d0b2ce3db": {
+      "ProjectGuid": "3133f95b-6c0f-4fee-9c04-5d4d0b2ce3db",
+      "DisplayName": "TriangleTest",
+      "ColorIndex": 1
+    },
+    "e70848f2-673a-47f8-b7db-4870507c6354": {
+      "ProjectGuid": "e70848f2-673a-47f8-b7db-4870507c6354",
+      "DisplayName": "TriangleTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
