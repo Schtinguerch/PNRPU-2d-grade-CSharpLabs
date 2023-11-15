@@ -1,0 +1,26 @@
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\Tests.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\Tests.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.abstractions.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.assert.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.core.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.execution.desktop.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.abstractions.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.assert.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.assert.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.core.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.core.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.execution.desktop.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\xunit.execution.desktop.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\obj\Debug\Tests.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\obj\Debug\Tests.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\LaboratoryWorkNo12.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\UKit.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\LaboratoryWorkNo12.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\LaboratoryWorkNo12.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\Task 2 DynamicTypeIdentification.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo12\Tests\bin\Debug\UKit.pdb
