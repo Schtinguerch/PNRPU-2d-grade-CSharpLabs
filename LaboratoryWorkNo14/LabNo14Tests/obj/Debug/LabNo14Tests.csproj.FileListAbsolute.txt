@@ -1,0 +1,26 @@
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LabNo14Tests.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LabNo14Tests.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\obj\Debug\LabNo14Tests.csproj.AssemblyReference.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\obj\Debug\LabNo14Tests.csproj.CoreCompileInputs.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\obj\Debug\LabNo14Tests.csproj.CopyComplete
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\obj\Debug\LabNo14Tests.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\obj\Debug\LabNo14Tests.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LaboratoryWorkNo14.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\UKit.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LaboratoryWorkNo12.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LaboratoryWorkNo14.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LaboratoryWorkNo14.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\Task 2 DynamicTypeIdentification.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\UKit.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LaboratoryWorkNo12.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LabNo14Tests\bin\Debug\LaboratoryWorkNo12.exe.config

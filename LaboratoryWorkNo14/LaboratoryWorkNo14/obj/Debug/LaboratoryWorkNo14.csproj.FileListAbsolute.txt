@@ -1,0 +1,33 @@
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo14.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo14.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo14.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.SuggestedBindingRedirects.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo12.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\Task 2 DynamicTypeIdentification.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo12.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo12.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\Task 2 DynamicTypeIdentification.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.CopyComplete
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo14.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo14.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo14.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo12.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\UKit.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo12.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\LaboratoryWorkNo12.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\Task 2 DynamicTypeIdentification.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\bin\Debug\UKit.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.AssemblyReference.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.SuggestedBindingRedirects.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.CoreCompileInputs.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.csproj.CopyComplete
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo14\LaboratoryWorkNo14\obj\Debug\LaboratoryWorkNo14.pdb
