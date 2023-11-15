@@ -1,0 +1,8 @@
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\bin\Debug\LaboratoryWorkNo6.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\bin\Debug\LaboratoryWorkNo6.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\bin\Debug\LaboratoryWorkNo6.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\obj\Debug\LaboratoryWorkNo6.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\obj\Debug\LaboratoryWorkNo6.csproj.SuggestedBindingRedirects.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\obj\Debug\LaboratoryWorkNo6.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\obj\Debug\LaboratoryWorkNo6.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryWorkNo6\LaboratoryWorkNo6\obj\Debug\LaboratoryWorkNo6.pdb
