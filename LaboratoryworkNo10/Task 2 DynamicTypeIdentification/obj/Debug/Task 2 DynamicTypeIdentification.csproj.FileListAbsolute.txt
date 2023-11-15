@@ -1,0 +1,29 @@
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.CopyComplete
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.dll.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\UKit.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\bin\Debug\UKit.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.AssemblyReference.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.CoreCompileInputs.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryworkNo10\Task 2 DynamicTypeIdentification\obj\Debug\Task 2 DynamicTypeIdentification.csproj.CopyComplete

@@ -1,0 +1,44 @@
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Task2Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Task2Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Task 2 DynamicTypeIdentification.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Task 2 DynamicTypeIdentification.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\obj\Debug\Task2Test.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\obj\Debug\Task2Test.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\obj\Debug\Task2Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\obj\Debug\Task2Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task2Test\obj\Debug\Task2Test.csproj.CopyComplete
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Task2Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Task2Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\obj\Debug\Task2Test.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\obj\Debug\Task2Test.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\obj\Debug\Task2Test.csproj.CopyComplete
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\obj\Debug\Task2Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\obj\Debug\Task2Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Task 2 DynamicTypeIdentification.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task2Test\bin\Debug\Task 2 DynamicTypeIdentification.dll.config

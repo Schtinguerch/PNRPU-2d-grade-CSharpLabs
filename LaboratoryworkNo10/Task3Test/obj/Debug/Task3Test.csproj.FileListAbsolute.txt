@@ -1,0 +1,40 @@
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Task3Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Task3Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Task 3 Interfaces.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Task 3 Interfaces.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Task 3 Interfaces.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\obj\Debug\Task3Test.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\obj\Debug\Task3Test.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\obj\Debug\Task3Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\obj\Debug\Task3Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task3Test\obj\Debug\Task3Test.csproj.CopyComplete
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Task3Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Task3Test.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Task 3 Interfaces.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Task 3 Interfaces.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Task 3 Interfaces.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\obj\Debug\Task3Test.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\obj\Debug\Task3Test.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\obj\Debug\Task3Test.csproj.CopyComplete
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\obj\Debug\Task3Test.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task3Test\obj\Debug\Task3Test.pdb

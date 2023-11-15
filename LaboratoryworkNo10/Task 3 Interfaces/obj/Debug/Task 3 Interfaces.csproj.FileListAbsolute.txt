@@ -1,0 +1,20 @@
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\bin\Debug\Task 3 Interfaces.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\bin\Debug\Task 3 Interfaces.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\bin\Debug\Task 3 Interfaces.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\Task 3 Interfaces\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\bin\Debug\Task 3 Interfaces.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\bin\Debug\Task 3 Interfaces.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\bin\Debug\Task 3 Interfaces.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\bin\Debug\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\bin\Debug\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.csproj.CopyComplete
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.exe
+C:\Users\2sust\source\repos\OOP_LABS\LaboratoryworkNo10\Task 3 Interfaces\obj\Debug\Task 3 Interfaces.pdb

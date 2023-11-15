@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df8b5d32-d438-40d6-bd4a-b0429d3364dc": {
+      "ProjectGuid": "df8b5d32-d438-40d6-bd4a-b0429d3364dc",
+      "DisplayName": "Task 1 ClassHierarchy",
+      "ColorIndex": 0
+    },
+    "6a6c1459-1db3-4d34-b6e6-b19fd247225c": {
+      "ProjectGuid": "6a6c1459-1db3-4d34-b6e6-b19fd247225c",
+      "DisplayName": "Task 2 DynamicTypeIdentification",
+      "ColorIndex": 1
+    },
+    "fa5bdf59-b6c7-4792-b3a2-262173fb22aa": {
+      "ProjectGuid": "fa5bdf59-b6c7-4792-b3a2-262173fb22aa",
+      "DisplayName": "Task 3 Interfaces",
+      "ColorIndex": 2
+    },
+    "4bd6d684-efc7-48bf-a145-60eaeecd8d49": {
+      "ProjectGuid": "4bd6d684-efc7-48bf-a145-60eaeecd8d49",
+      "DisplayName": "Task1Test",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "1b2bbfd5-cca0-4034-8c7a-e284633aae9b": {
+      "ProjectGuid": "1b2bbfd5-cca0-4034-8c7a-e284633aae9b",
+      "DisplayName": "Task2Test",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

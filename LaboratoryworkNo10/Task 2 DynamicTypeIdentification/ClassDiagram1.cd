@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task_2_DynamicTypeIdentification.Program">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAgAAAQAAAAAgAAAAAAAARAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_express" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.Request">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Task_2_DynamicTypeIdentification.Request.RequestMessageHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Request.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Task_2_DynamicTypeIdentification.Request.Condition" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Request.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAECAAAAAABAAAAAAAAAAQAAAAAAAAgEAAAA=</HashCode>
+      <FileName>Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.Express">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAECAAAAAQAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Express.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Cars" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.TrainCar">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAABAAAAAAAAABAAAAACAAQA=</HashCode>
+      <FileName>TrainCars\TrainCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.KitchenCar">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainCars\ServiceCars\KitchenCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.Locomotive">
+    <Position X="4.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAEAAAEAAAAAAAAAAAICAAAAAAAAAA=</HashCode>
+      <FileName>TrainCars\ServiceCars\Locomotive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.CompartmentalCar">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>TrainCars\PassengerCars\CompartmentalCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.EconomClass">
+    <Position X="13" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>TrainCars\PassengerCars\EconomClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_2_DynamicTypeIdentification.PassengerCar">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAIAAAEAAAAAAIAAAAAAAAAAAAAAAAgBAI=</HashCode>
+      <FileName>TrainCars\PassengerCars\PassengerCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

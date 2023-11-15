@@ -1,0 +1,8 @@
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\bin\Debug\LabWorkNo11.exe.config
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\bin\Debug\LabWorkNo11.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\bin\Debug\LabWorkNo11.pdb
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\obj\Debug\Talk 1 ClassHierarchy.csproj.AssemblyReference.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\obj\Debug\Talk 1 ClassHierarchy.csproj.SuggestedBindingRedirects.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\obj\Debug\Talk 1 ClassHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\obj\Debug\LabWorkNo11.exe
+C:\Users\2sust\source\repos\OOP_LABS\LabWorkNo11\LabWorkNo11\obj\Debug\LabWorkNo11.pdb
