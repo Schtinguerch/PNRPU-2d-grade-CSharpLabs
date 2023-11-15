@@ -1,0 +1,26 @@
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Tests.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Tests.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\LaboratoryWork13.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\LaboratoryWorkNo12.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\UKit.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\LaboratoryWorkNo12.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\LaboratoryWorkNo12.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\LaboratoryWork13.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\LaboratoryWork13.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\Task 2 DynamicTypeIdentification.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\bin\Debug\UKit.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\obj\Debug\Tests.csproj.CopyComplete
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\obj\Debug\Tests.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWork13\Tests\obj\Debug\Tests.pdb
