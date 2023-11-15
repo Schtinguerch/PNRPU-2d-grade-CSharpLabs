@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ObjectOrientedTestsCasesPrototype
+build_property.RootNamespace = ObjectOrientedTestsCasesPrototype
+build_property.ProjectDir = D:\Storage\Repositories\repos\ObjectOrientedTestsCasesPrototype\ObjectOrientedTestsCasesPrototype\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Storage\Repositories\repos\ObjectOrientedTestsCasesPrototype\ObjectOrientedTestsCasesPrototype
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/ErrorView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFcnJvclZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/TestCaseRunView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0Q2FzZVJ1blZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/TestCaseView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0Q2FzZVZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/TestMapCardView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0TWFwQ2FyZFZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/TestMapRunCardView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0TWFwUnVuQ2FyZFZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/TestMapRunView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0TWFwUnVuVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Components/TestMapView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXN0TWFwVmlldy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/NewTestMap.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3VGVzdE1hcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/NewTestMapRun.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3VGVzdE1hcFJ1bi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/TestMapPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdE1hcFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/TestMapRunPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdE1hcFJ1blBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/TestMapRunsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdE1hcFJ1bnNQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i2ftz540we
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Storage/Repositories/repos/ObjectOrientedTestsCasesPrototype/ObjectOrientedTestsCasesPrototype/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

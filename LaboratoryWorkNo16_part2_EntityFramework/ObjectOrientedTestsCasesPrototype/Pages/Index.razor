@@ -1,0 +1,32 @@
+﻿@page "/"
+@using ObjectOrientedTestsCasesPrototype.Model
+@using ObjectOrientedTestsCasesPrototype.Components
+
+@inject NavigationManager _navigator
+
+<div class="container">
+    <div class="row">
+        <div class="col-auto">
+            <button class="d-inline btn btn-primary" @onclick="@(() => _navigator.NavigateTo("/NewTestMap"))">
+                New Map
+            </button>
+            
+            <button class="d-inline btn btn-primary" @onclick="@(() => _navigator.NavigateTo("/TestRuns"))">
+                Show Test Runs
+            </button>
+            
+            <button class="d-inline btn btn-primary" @onclick="@(() => _navigator.NavigateTo("/NewTestMapRun"))">
+                New Map Run
+            </button>
+        </div>
+    </div>
+    
+    @foreach (var testMap in OrmManager.Context.TestMaps)
+    {
+        <TestMapCardView TestMap="@testMap" OnDeletedAction="() => StateHasChanged()"/>
+    }
+</div>
+
+@code {
+    
+}

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATlpGPirkH0eSlOtyp8WEPgAAAAACAAAAAAAQZgAAAAEAACAAAABmsC+iIwgf753wCrARdAqk4YqlicEHm0tPGrPU3zOUpgAAAAAOgAAAAAIAACAAAAAbtKtMKzT8IAlirBCbYch9pZ0ynFW6LaE/ZN4ElqKX6yAAAADW6qjaTR0rZk2V36AF0itTYePxZGW/Qjl349wNaDv4R0AAAAC6OlJPamgoZtUT0vo59XYm26nu4uDpQRJv1WJ3fcK1rb4x3NQIooFv4f/4AHH5Ecvg7f6Ixmgfir22HyB7ROrj</EncryptedPassword>
+    <_PublishTargetUrl>ftp://f31-preview.freehostingeu.com/test_blazor</_PublishTargetUrl>
+    <History>False|2023-02-06T17:00:43.8563847Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="ObjectOrientedTestsCasesPrototype.Model.ObjectOrientedTestCasesPrototypeContext">
+      <Value>
+      </Value>
+    </EFMigrations>
+  </ItemGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>04/05/2022 02:38:56</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>04/06/2022 01:26:00</publishTime>
+    </File>
+    <File Include="EntityFramework.dll">
+      <publishTime>04/17/2020 01:38:44</publishTime>
+    </File>
+    <File Include="EntityFramework.SqlServer.dll">
+      <publishTime>04/17/2020 01:39:00</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>04/15/2020 03:39:12</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>10/08/2022 04:35:40</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>11/30/2022 18:32:52</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>11/30/2022 18:33:14</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>11/30/2022 18:33:24</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>11/30/2022 18:33:32</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>06/23/2022 00:59:58</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>11/20/2021 03:02:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>07/01/2022 23:47:38</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>07/01/2022 23:25:52</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>07/01/2022 23:27:42</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>07/01/2022 23:29:14</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>07/01/2022 23:39:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>07/01/2022 23:33:46</publishTime>
+    </File>
+    <File Include="Microsoft.SqlServer.Server.dll">
+      <publishTime>01/27/2022 22:19:08</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/19/2020 23:40:26</publishTime>
+    </File>
+    <File Include="ObjectOrientedTestsCasesPrototype.deps.json">
+      <publishTime>02/06/2023 21:58:24</publishTime>
+    </File>
+    <File Include="ObjectOrientedTestsCasesPrototype.dll">
+      <publishTime>02/06/2023 21:58:20</publishTime>
+    </File>
+    <File Include="ObjectOrientedTestsCasesPrototype.pdb">
+      <publishTime>02/06/2023 21:58:20</publishTime>
+    </File>
+    <File Include="ObjectOrientedTestsCasesPrototype.runtimeconfig.json">
+      <publishTime>02/06/2023 21:58:21</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>01/17/2020 23:41:36</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll">
+      <publishTime>10/19/2020 23:49:58</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>10/08/2022 04:35:40</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>10/04/2022 03:45:42</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>10/04/2022 03:45:32</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 16:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>10/04/2022 03:45:32</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 16:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>10/04/2022 03:45:32</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 16:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>01/17/2020 23:41:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/19/2020 23:52:12</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll">
+      <publishTime>10/19/2020 23:53:02</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll">
+      <publishTime>10/19/2020 23:53:36</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll">
+      <publishTime>10/08/2022 04:35:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll">
+      <publishTime>10/19/2020 23:52:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/19/2020 23:49:30</publishTime>
+    </File>
+    <File Include="System.CodeDom.dll">
+      <publishTime>11/15/2019 13:36:56</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>10/19/2020 23:52:30</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>01/17/2020 23:28:34</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>10/19/2020 23:50:02</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>07/01/2022 23:23:04</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>04/08/2021 21:45:54</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>10/19/2020 23:52:34</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/19/2020 23:52:26</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>10/19/2020 23:52:36</publishTime>
+    </File>
+    <File Include="System.Windows.Extensions.dll">
+      <publishTime>10/19/2020 23:53:38</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/06/2023 21:58:24</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap/bootstrap.min.css">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap/bootstrap.min.css.map">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/FONT-LICENSE">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.eot">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.otf">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.svg">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.ttf">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/font/fonts/open-iconic.woff">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/ICON-LICENSE">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/open-iconic/README.md">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>01/28/2023 01:29:11</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.png">
+      <publishTime>01/19/2023 13:57:56</publishTime>
+    </File>
+    <File Include="wwwroot/ObjectOrientedTestsCasesPrototype.styles.css">
+      <publishTime>02/06/2023 21:58:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

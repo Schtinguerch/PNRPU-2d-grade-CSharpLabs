@@ -1,0 +1,80 @@
+@using ObjectOrientedTestsCasesPrototype.Components
+@using ObjectOrientedTestsCasesPrototype.Model
+@using Microsoft.EntityFrameworkCore
+
+@inject NavigationManager _navigator
+
+
+@if (CurrentTestMapRun is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div class="row">
+        <div class="col">
+            <h4>@FullMapRunName</h4>
+        </div>
+        
+        <div class="col-auto">
+            <button class="d-inline btn btn-sm btn-primary ml-8" @onclick="() => _areTestCasesCollapsed = !_areTestCasesCollapsed">
+                <span class="oi @TestCaseClasses.Item2"></span>
+            </button>
+        </div>
+    </div>
+        
+    <div class="@TestCaseClasses.Item1">
+        @foreach (var testCaseRun in CurrentTestMapRun.TestCaseRuns)
+        {
+            <TestCaseRunView CurrentTestCaseRun="testCaseRun" />
+        }
+        
+        @foreach (var childTestMapRun in CurrentTestMapRun.TestMapRunInheritionContainerTestMapRuns)
+        {
+            <TestMapRunView 
+                CurrentRunId="childTestMapRun.HoldedTestMapRunId"
+                ParentMapRunName="@FullMapRunName" />
+        }
+    </div>
+}
+
+
+@code {
+    private int _currentRunId;
+
+    [Parameter]
+    public int CurrentRunId
+    {
+        get => _currentRunId;
+        set
+        {
+            _currentRunId = value;
+            LoadTestMap();
+        }
+    }
+    
+    [Parameter]
+    public string? ParentMapRunName { get; set; }
+    private string FullMapRunName => (ParentMapRunName is null ? string.Empty : $"{ParentMapRunName} > " ) + CurrentTestMapRun.RunName;
+
+    private TestMapRun? CurrentTestMapRun { get; set; }
+    
+    private bool _areTestCasesCollapsed = false;
+    private (string, string) TestCaseClasses => _areTestCasesCollapsed ? ("collapse", "oi-chevron-top") : (string.Empty, "oi-chevron-bottom");
+
+    private void LoadTestMap()
+    {
+        var testMapRun = OrmManager.Context.TestMapRuns
+            .Where(m => m.RunId == CurrentRunId)
+            .Include(r => r.TestCaseRuns)
+            .Include(r => r.TestMapRunInheritionContainerTestMapRuns);
+
+        if (!testMapRun.Any())
+        {
+            _navigator.NavigateTo("/NewMapRun");
+            return;
+        }
+
+        CurrentTestMapRun = testMapRun.First();
+    }
+}

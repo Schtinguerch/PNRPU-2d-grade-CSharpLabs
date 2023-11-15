@@ -1,0 +1,139 @@
+@using ObjectOrientedTestsCasesPrototype.Model
+
+@if (CurrentTestCaseRun is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div class="row mt-1 mb-1 pt-1 pb-1 border rounded">
+        <div class="col-1">
+            <code>
+                <span>R</span><span>@CurrentTestCaseRun.RunId.ToString("D6")</span>
+            </code>
+        </div>
+        
+        <div class="col-1">
+            <input
+                class="form-control form-control-sm"
+                type="text"
+                readonly="readonly"
+                value="@CurrentTestCaseRun.Type.TypeName"/>
+        </div>
+
+        <div class="col hover-text">
+            <textarea 
+                type="text" 
+                class="form-control form-control-sm h-38"
+                readonly="readonly">
+        
+                @CurrentTestCaseRun.CheckText
+            </textarea>
+
+            <span class="tooltip-text">@CurrentTestCaseRun.Comment</span>
+        </div>
+
+        <div class="col">
+            <textarea 
+                type="text" 
+                class="form-control form-control-sm h-38"
+                readonly="readonly">
+
+                @CurrentTestCaseRun.ExpectedResult
+            </textarea>
+        </div>
+
+        <div class="col-2">
+            <select class="form-control form-control-sm" @bind="TestingResultId" style="color: @ResultColors.tc; background-color: @ResultColors.bc">
+                @foreach (var result in OrmManager.Context.TestingResults)
+                {
+                    <option value="@result.ResultId">@result.ResultName</option>
+                }
+            </select>
+        </div>
+
+        <div class="col">
+            <textarea 
+                type="text" 
+                class="form-control form-control-sm h-38"
+                @bind="CurrentTestCaseRun.RunComment">
+            </textarea>
+        </div>
+
+        <div class="col">
+            <textarea 
+                type="text" 
+                class="form-control form-control-sm h-38"
+                @bind="CurrentTestCaseRun.TicketUrl">
+            </textarea>
+        </div>
+    </div>
+}
+
+@code {
+
+    private List<(string bc, string tc)> _colors = new List<(string bc, string tc)>()
+    {
+        ("white", "black"),
+        ("green", "white"),
+        ("yellow", "black"),
+        ("red", "white"),
+        ("gray", "white"),
+        ("purple", "white"),
+        ("darkred", "white"),
+    };
+
+    private (string bc, string tc) ResultColors => _colors[TestingResultId - 7];
+    
+    private TestCaseRun _currentTestCaseRun;
+
+    [Parameter]
+    public TestCaseRun? CurrentTestCaseRun
+    {
+        get => _currentTestCaseRun;
+        set
+        {
+            _currentTestCaseRun = value;
+            if (value is null)
+            {
+                return;
+            }
+
+            TestingTypeId = _currentTestCaseRun.TypeId;
+            TestingResultId = _currentTestCaseRun.ResultId;
+        }
+    }
+
+    private int _testingTypeId;
+    private int TestingTypeId
+    {
+        get => _testingTypeId;
+        set
+        {
+            if (_testingTypeId == value)
+            {
+                return;
+            }
+
+            _testingTypeId = value;
+            CurrentTestCaseRun.Type = OrmManager.Context.TestingTypes.Single(t => t.TypeId == value);
+        }
+    }
+
+    private int _testingResultId;
+
+    private int TestingResultId
+    {
+        get => _testingResultId;
+        set
+        {
+            if (_testingResultId == value)
+            {
+                return;
+            }
+
+            _testingResultId = value;
+            CurrentTestCaseRun.Result = OrmManager.Context.TestingResults.Single(r => r.ResultId == value);
+        }
+    }
+}

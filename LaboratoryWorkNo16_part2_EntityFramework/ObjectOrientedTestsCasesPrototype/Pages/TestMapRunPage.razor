@@ -1,0 +1,161 @@
+@page "/TestMapRun"
+@using ObjectOrientedTestsCasesPrototype.Components
+@using ObjectOrientedTestsCasesPrototype.Model
+@using Microsoft.EntityFrameworkCore
+
+@inject NavigationManager _navigator
+@inject IJSRuntime JS
+
+
+@if (CurrentTestMapRun is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div style="width: 90%; margin-left: auto; margin-right: auto">
+        <div class="both-margined">
+            <div class="row">
+                <div class="col">
+                    @if (IsNameEditMode)
+                    {
+                        <input type="text" class="d-inline form-control w-300" id="mapName" @bind="CurrentTestMapRun.RunName" required="required">
+                        
+                        <button class="d-inline btn btn-secondary ml-8" @onclick="@(() => { IsNameEditMode = false; OrmManager.Context.SaveChanges(); })">
+                            <span class="oi oi-check"></span>
+                        </button>
+                    }
+                    else
+                    {
+                        <h4 class="d-inline">@CurrentTestMapRun.RunName</h4>
+                    
+                        <button class="d-inline btn btn-secondary ml-8" @onclick="() => IsNameEditMode = true">
+                            <span class="oi oi-pencil"></span>
+                        </button>
+                    }
+                </div>
+            
+                <div class="col-auto">
+                    <button class="d-inline btn btn-secondary ml-8" @onclick="() => OrmManager.Context.SaveChanges()">
+                        <span class="oi oi-check"></span>
+                    </button>
+                    
+                    <button class="d-inline btn btn-primary ml-8" @onclick="() => _areTestCasesCollapsed = !_areTestCasesCollapsed">
+                        <span class="oi @TestCaseClasses.Item2"></span>
+                    </button>
+
+                    <button class="d-inline btn btn-danger ml-8" @onclick="RemoveTestRun">
+                        <span class="oi oi-x"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row both-margined">
+            <label class="col-auto">Comment</label>
+            
+            <div class="col">
+                <textarea type="text" class="form-control" @bind="CurrentTestMapRun.Comment"></textarea>
+            </div>
+        </div>
+        
+        <div class="@TestCaseClasses.Item1 bottom-margined">
+            <div class="row">
+                <div class="col-1">
+                    <span class="fw-bold">ID</span>
+                </div>
+                
+                <div class="col-1">
+                    <span class="fw-bold">Type</span>
+                </div>
+
+                <div class="col">
+                    <span class="fw-bold">Test Case Description</span>
+                </div>
+
+                <div class="col-2">
+                    <span class="fw-bold">Expected Result</span>
+                </div>
+
+                <div class="col-2">
+                    <span class="fw-bold">Actual Result</span>
+                </div>
+                
+                <div class="col">
+                    <span class="fw-bold">Run Comment</span>
+                </div>
+                
+                <div class="col">
+                    <span class="fw-bold">Ticket URL</span>
+                </div>
+            </div>
+            
+            @foreach (var testCaseRun in CurrentTestMapRun.TestCaseRuns)
+            {
+                <TestCaseRunView CurrentTestCaseRun="testCaseRun"/>
+            }
+        </div>
+        
+        <div class="row border-bottom both-margined"></div>
+                    
+        @foreach (var childTestMapRun in CurrentTestMapRun.TestMapRunInheritionContainerTestMapRuns)
+        {
+            <TestMapRunView CurrentRunId="childTestMapRun.HoldedTestMapRunId" />
+        }
+    </div>
+}
+
+
+@code {
+    private int _currentMapRunId;
+    
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public int CurrentTestRunId 
+    {
+        get => _currentMapRunId;
+        set
+        {
+            _currentMapRunId = value;
+            LoadTestMapRun();
+        }
+    }
+
+    private TestMapRun? CurrentTestMapRun { get; set; }
+    private bool IsNameEditMode { get; set; } = false;
+    
+    private bool _areTestCasesCollapsed = false;
+    private (string, string) TestCaseClasses => _areTestCasesCollapsed ? ("collapse", "oi-chevron-top") : (string.Empty, "oi-chevron-bottom");
+
+    private void LoadTestMapRun()
+    {
+        var testMapRun = OrmManager.Context.TestMapRuns
+            .Where(m => m.RunId == CurrentTestRunId)
+            .Include(r => r.TestCaseRuns)
+            .Include(r => r.TestMapRunInheritionContainerTestMapRuns);
+
+        if (!testMapRun.Any())
+        {
+            _navigator.NavigateTo("/NewMapRun");
+            return;
+        }
+
+        CurrentTestMapRun = testMapRun.First();
+    }
+
+    private void RemoveTestRun()
+    {
+        throw new NotImplementedException();
+    }
+    
+    protected override void OnInitialized()
+    {
+        WaitAndSetup();
+    }
+
+    private async void WaitAndSetup()
+    {
+        await Task.Delay(500);
+        await JS.InvokeAsync<string>("CheckTextAreas");
+    }
+}

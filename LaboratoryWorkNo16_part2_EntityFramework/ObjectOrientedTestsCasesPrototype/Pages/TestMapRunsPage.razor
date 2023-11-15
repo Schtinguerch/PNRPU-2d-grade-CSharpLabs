@@ -1,0 +1,37 @@
+@page "/TestRuns"
+@using ObjectOrientedTestsCasesPrototype.Model
+@using ObjectOrientedTestsCasesPrototype.Components
+
+@inject NavigationManager _navigator
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            <select id="testMap" class="form-control" @bind="TargetMapId">
+                @foreach (var map in OrmManager.Context.TestMaps)
+                {
+                    <option value="@map.MapId">@map.MapName</option>
+                }
+            </select>
+        </div>
+        
+        <div class="col-auto">
+            <button class="d-inline btn btn-primary" @onclick="@(() => _navigator.NavigateTo("/NewTestMapRun"))">
+                New Map Run
+            </button>
+        </div>
+    </div>
+    
+    @foreach (var mapRun in OrmManager.Context.TestMapRuns.Where(mr => mr.TargetTestMapId == TargetMapId))
+    {
+        <TestMapRunCardView TestMapRun="mapRun" />
+    }
+</div>
+
+
+@code {
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public int TargetMapId { get; set; }
+}

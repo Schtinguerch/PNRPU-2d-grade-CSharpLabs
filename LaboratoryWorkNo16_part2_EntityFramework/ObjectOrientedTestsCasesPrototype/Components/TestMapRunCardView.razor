@@ -1,0 +1,67 @@
+@using ObjectOrientedTestsCasesPrototype.Model
+
+@inject IJSRuntime JsRuntime
+@inject NavigationManager _navigator
+
+@if (TestMapRun is null)
+{
+    <div>Loading...</div>
+}
+else
+{
+    <div class="bordered-block">
+        <div class="row no-margin">
+            <div class="row no-margin no-padding">
+                <div class="col">
+                    <button class="btn btn-primary d-inline" @onclick="@(() => _navigator.NavigateTo($"/TestMapRun?CurrentTestRunId={TestMapRun.RunId}"))">
+                        Open
+                    </button>
+                
+                    <div class="d-inline p-2 fs-20b">@TestMapRun.RunName</div>
+                </div>
+
+                <div class="col-auto justify-content-end">
+                    <div class="p-2 d-inline align-items-center">
+                        <span>V</span>@TestMapRun.RunOrderNumber
+                    </div>
+                    
+                    <button class="btn btn-primary" @onclick="@(() => _navigator.NavigateTo($"/TestMap?CurrentMapId={TestMapRun.TargetTestMapId}"))">
+                        Show Target Map
+                    </button>
+                
+                    <button class="btn btn-secondary" @onclick="() => { _isCollapsed = !_isCollapsed; _showComment = !_showComment; }">
+                        @ShowComment Comment
+                    </button>
+                
+                    <button class="btn btn-danger" @onclick="DeleteTestMapRun">
+                        <span class="oi oi-x"></span>
+                    </button>
+                </div>
+            </div>
+        
+            <div class="pos-f-t">
+                <div class="@CollapseClass" id="navbarToggleExternalContent">
+                    <div class="p-4">
+                        <p class="no-margin">@TestMapRun.Comment</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public TestMapRun? TestMapRun { get; set; }
+    [Parameter] public Action? OnDeletedAction { get; set; }
+
+    private bool _isCollapsed = true;
+    private string CollapseClass => _isCollapsed ? "collapse" : string.Empty;
+
+    private bool _showComment = true;
+    private string ShowComment => _showComment ? "Show" : "Hide";
+
+    private async Task DeleteTestMapRun()
+    {
+        throw new NotImplementedException();
+    }
+}

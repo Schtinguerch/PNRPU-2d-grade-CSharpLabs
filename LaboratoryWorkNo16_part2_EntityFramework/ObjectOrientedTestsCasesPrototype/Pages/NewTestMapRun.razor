@@ -1,0 +1,185 @@
+@page "/NewTestMapRun"
+@using ObjectOrientedTestsCasesPrototype.Model
+@using Microsoft.EntityFrameworkCore
+
+@inject NavigationManager _navigator
+
+
+<div class="container">
+    <div class="row bottom-double-margined">
+        <h2>Create new test-case map run</h2>
+    </div>
+    
+    <ErrorView Message="Name is required to fill" IsVisible="@_isMessageVisible" />
+    
+    <div class="form-group row bottom-margined">
+        <label for="testMap" class="col-sm-2 col-form-label">Target Test Map</label>
+        
+        <div class="col-sm-10">
+            <select id="testMap" class="form-control" @bind="TestMapId">
+                @foreach (var map in OrmManager.Context.TestMaps)
+                {
+                    <option value="@map.MapId">@map.MapName</option>
+                }
+            </select>
+        </div>
+    </div>
+
+    <div class="form-group row bottom-margined">
+        <label for="mapName" class="col-sm-2 col-form-label">Run Name</label>
+        
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="mapName" @bind="MapRunName" required>
+        </div>
+    </div>
+    
+    <div class="form-group row bottom-margined">
+        <label for="mapVersion" class="col-sm-2 col-form-label">Version</label>
+        
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="mapVersion" readonly="readonly" @bind="MapRunVersion">
+        </div>
+    </div>
+    
+    <div class="form-group row bottom-margined">
+        <label for="mapComment" class="col-sm-2 col-form-label">Comment</label>
+        
+        <div class="col-sm-10">
+            <textarea type="text" class="form-control" id="mapComment" @bind="MapRunComment"></textarea>
+        </div>
+    </div>
+    
+    <div class="row bottom-margined">
+        <div class="col-sm-2"></div>
+        
+        <div class="col-sm-10">
+            <button class="btn btn-primary" type="submit" @onclick="CreateNewTestCaseMapRun">Create Map Run</button>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    private int _testMapId;
+    private bool _isMessageVisible = false;
+    private TestMap _testMap;
+    
+    private string MapRunName { get; set; }
+    private int MapRunVersion { get; set; }
+    private string MapRunComment { get; set; }
+
+    private List<TestCase> OverrodeTestCases { get; set; } = new List<TestCase>();
+
+    [Parameter]
+    [SupplyParameterFromQuery]
+    public int TestMapId
+    {
+        get => _testMapId;
+        set
+        {
+            _testMapId = value;
+            LoadTestMap();
+        }
+    }
+
+    private void LoadTestMap()
+    {
+        var testMaps = OrmManager.Context.TestMaps
+            .Where(m => m.MapId == _testMapId)
+            .Include(t => t.TestCases)
+            .Include(t => t.TestMapInheritionContainerTestMaps);
+        
+        if (!testMaps.Any())
+        {
+            return;
+        }
+
+        _testMap = testMaps.Single();
+        MapRunName = _testMap.MapName;
+        MapRunVersion = 1;
+        MapRunComment = _testMap.Comment;
+    }
+
+    private void CreateNewTestCaseMapRun()
+    {
+        if (string.IsNullOrWhiteSpace(MapRunName) || TestMapId == 0)
+        {
+            _isMessageVisible = true;
+            return;
+        }
+
+        var mapRun = RunFromTestMap(_testMap, true);
+        OrmManager.Context.SaveChanges();
+        _navigator.NavigateTo($"/TestMapRun?CurrentTestRunId={mapRun.RunId}");
+    }
+
+    private TestMapRun RunFromTestMap(TestMap testMap, bool isMain = false)
+    {
+        if (isMain)
+        {
+            OverrodeTestCases.Clear();
+        }
+        
+        var notTested = OrmManager.Context.TestingResults.First();
+        var testMapRun = !isMain ? 
+            new TestMapRun()
+            {
+                RunOrderNumber = 1,
+                RunName = testMap.MapName
+            }
+            : new TestMapRun()
+            {
+                RunName = MapRunName,
+                RunOrderNumber = 1,
+                Comment = MapRunComment,
+                TargetTestMap = testMap,
+            };
+
+        OrmManager.Context.TestMapRuns.Add(testMapRun);
+        var overrodeIds = new List<int>();
+        
+        foreach (var testCase in testMap.TestCases.Except(OverrodeTestCases))
+        {
+            testMapRun.TestCaseRuns.Add(new TestCaseRun()
+            {
+                TypeId = testCase.TypeId,
+                CheckText = testCase.CheckText,
+                Comment = testCase.Comment,
+                ExpectedResult = testCase.ExpectedResult,
+                Result = notTested,
+            });
+
+            var caseId = testCase.OverridedCaseId;
+            while (caseId.HasValue)
+            {
+                overrodeIds.Add(caseId.Value);
+                var overrodeTestCase = OrmManager.Context.TestCases.SingleOrDefault(tc => tc.CaseId == caseId);
+
+                if (overrodeTestCase is null)
+                {
+                    break;
+                }
+                
+                caseId = overrodeTestCase.OverridedCaseId;
+            }
+        }
+        
+        OverrodeTestCases.AddRange(OrmManager.Context.TestCases.Where(tc => overrodeIds.Contains(tc.CaseId)));
+
+        foreach (var inherition in testMap.TestMapInheritionContainerTestMaps)
+        {
+            OrmManager.Context.Entry(inherition).Reference(i => i.HoldedTestMap).Load();
+            OrmManager.Context.Entry(inherition.HoldedTestMap).Collection(m => m.TestCases).Load();
+            OrmManager.Context.Entry(inherition.HoldedTestMap).Collection(m => m.TestMapInheritionContainerTestMaps).Load();
+
+            var loadedMap = inherition.HoldedTestMap;
+            OrmManager.Context.TestMapRunInheritions.Add(new TestMapRunInherition()
+            {
+                ContainerTestMapRun = testMapRun,
+                HoldedTestMapRun = RunFromTestMap(loadedMap)
+            });
+        }
+        
+        return testMapRun;
+    }
+}
