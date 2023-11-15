@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="WpfFileWorking.Views.CompartmentalCarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WpfFileWorking.Views.CarViews"
+             xmlns:viewModels="clr-namespace:WpfFileWorking.ViewModels"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    
+    <d:UserControl.DataContext>
+        <viewModels:CompartmentalCarViewModel></viewModels:CompartmentalCarViewModel>
+    </d:UserControl.DataContext>
+    
+    <Grid MaxWidth="400" Margin="24">
+        <StackPanel Orientation="Vertical">
+            <local:PassengerCarBaseView></local:PassengerCarBaseView>
+            
+            <CheckBox 
+                Content="Наличие шумоизоляции" 
+                Margin="0 12 0 6" 
+                IsChecked="{Binding IncludesSoundProofing, Mode=TwoWay}">
+            </CheckBox>
+        </StackPanel>
+    </Grid>
+</UserControl>

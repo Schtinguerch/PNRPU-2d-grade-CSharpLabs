@@ -1,0 +1,42 @@
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.runner.reporters.net452.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.runner.utility.net452.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.abstractions.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.assert.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.core.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\xunit.execution.desktop.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\WpfFileWorking.exe
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Task 2 DynamicTypeIdentification.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\UKit.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Memory.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Buffers.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Numerics.Vectors.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\WpfFileWorking.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\WpfFileWorking.exe.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Task 2 DynamicTypeIdentification.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Task 2 DynamicTypeIdentification.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\CommunityToolkit.Mvvm.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\CommunityToolkit.Mvvm.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\UKit.pdb
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Memory.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Buffers.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\bin\Debug\System.Numerics.Vectors.xml
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.SuggestedBindingRedirects.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.dll.config
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Storage\Repositories\repos\OOP_LABS\LaboratoryWorkNo16\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

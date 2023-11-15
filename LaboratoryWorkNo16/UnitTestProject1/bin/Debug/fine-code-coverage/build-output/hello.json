@@ -1,0 +1,65 @@
+[
+  {
+    "$type": "Task_2_DynamicTypeIdentification.CompartmentalCar, Task 2 DynamicTypeIdentification",
+    "IncludesSoundProofing": true,
+    "Passengers": [],
+    "PassengerCapacity": 98,
+    "PassengerCount": 0,
+    "Mass": 291,
+    "Length": 732
+  },
+  {
+    "$type": "Task_2_DynamicTypeIdentification.EconomClass, Task 2 DynamicTypeIdentification",
+    "LevelCount": 2,
+    "Passengers": [],
+    "PassengerCapacity": 332,
+    "PassengerCount": 0,
+    "Mass": 165,
+    "Length": 94
+  },
+  {
+    "$type": "Task_2_DynamicTypeIdentification.EconomClass, Task 2 DynamicTypeIdentification",
+    "LevelCount": 1,
+    "Passengers": [],
+    "PassengerCapacity": 254,
+    "PassengerCount": 0,
+    "Mass": 128,
+    "Length": 75
+  },
+  {
+    "$type": "Task_2_DynamicTypeIdentification.Locomotive, Task 2 DynamicTypeIdentification",
+    "EnginePower": 2250,
+    "MaxSpeed": 80,
+    "Mass": 450,
+    "Length": 91
+  },
+  {
+    "$type": "Task_2_DynamicTypeIdentification.Locomotive, Task 2 DynamicTypeIdentification",
+    "EnginePower": 5280,
+    "MaxSpeed": 211,
+    "Mass": 528,
+    "Length": 146
+  },
+  {
+    "$type": "Task_2_DynamicTypeIdentification.KitchenCar, Task 2 DynamicTypeIdentification",
+    "DishAssortiment": [
+      "soba",
+      "meat",
+      "rise",
+      "pourage",
+      "pasta"
+    ],
+    "Mass": 996,
+    "Length": 83
+  },
+  {
+    "$type": "Task_2_DynamicTypeIdentification.KitchenCar, Task 2 DynamicTypeIdentification",
+    "DishAssortiment": [
+      "pasta",
+      "water",
+      "sauce"
+    ],
+    "Mass": 127,
+    "Length": 35
+  }
+]

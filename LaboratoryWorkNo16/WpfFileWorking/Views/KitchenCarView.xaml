@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="WpfFileWorking.Views.KitchenCarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WpfFileWorking.Views"
+             xmlns:carViews="clr-namespace:WpfFileWorking.Views.CarViews"
+             xmlns:services="clr-namespace:WpfFileWorking.Services"
+             xmlns:viewModels="clr-namespace:WpfFileWorking.ViewModels"
+             xmlns:fa6="http://schemas.fontawesome.com/icons/svg"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    
+    <d:UserControl.DataContext>
+        <viewModels:KitchenCarViewModel></viewModels:KitchenCarViewModel>
+    </d:UserControl.DataContext>
+    
+    <Grid MaxWidth="400" Margin="24">
+        <StackPanel Orientation="Vertical">
+            <carViews:TrainCarBaseView></carViews:TrainCarBaseView>
+            
+            <StackPanel 
+                Margin="0 12 0 6"
+                Orientation="Horizontal" >
+                <TextBlock 
+                    Text="Пассажиры"
+                    VerticalAlignment="Center">
+                </TextBlock>
+                
+                <Button 
+                    Height="20"
+                    Margin="8 0 4 0"
+                    Command="{Binding AddDishCommand}">
+                    
+                    <fa6:ImageAwesome
+                        Margin="4"
+                        Icon="Solid_Plus">
+                    </fa6:ImageAwesome>
+                </Button>
+                
+                <Button 
+                    Height="20"
+                    Margin="0 0 4 0"
+                    Command="{Binding RemoveDishCommand}"
+                    CommandParameter="{Binding ElementName=PassengersListView, Path=SelectedItem}">
+                    
+                    <fa6:ImageAwesome
+                        Margin="4"
+                        Icon="Solid_Xmark">
+                    </fa6:ImageAwesome>
+                </Button>
+            </StackPanel>
+            <ListView 
+                x:Name="PassengersListView"
+                ItemsSource="{Binding Dishes.ObservableList}">
+                
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBox 
+                            Margin="2" 
+                            Text="{Binding Value, Mode=TwoWay}">
+                        </TextBox>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</UserControl>

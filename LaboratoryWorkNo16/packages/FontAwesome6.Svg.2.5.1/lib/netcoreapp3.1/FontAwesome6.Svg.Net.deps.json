@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FontAwesome6.Svg.Net/2.5.1.0": {
+        "dependencies": {
+          "FontAwesome6.Core": "2.5.1",
+          "FontAwesome6.Shared.Net": "2.5.1",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "FontAwesome6.Svg.Net.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "FontAwesome6.Core/2.5.1": {
+        "runtime": {
+          "FontAwesome6.Core.dll": {}
+        }
+      },
+      "FontAwesome6.Shared.Net/2.5.1": {
+        "dependencies": {
+          "FontAwesome6.Core": "2.5.1"
+        },
+        "runtime": {
+          "FontAwesome6.Shared.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FontAwesome6.Svg.Net/2.5.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "FontAwesome6.Core/2.5.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FontAwesome6.Shared.Net/2.5.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
