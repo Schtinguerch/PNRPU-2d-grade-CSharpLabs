@@ -1,0 +1,6 @@
+C:\Users\2sust\source\repos\OOP_LABS\UKit\UKit\bin\Release\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\UKit\UKit\bin\Release\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\UKit\UKit\obj\Release\UKit.csproj.CoreCompileInputs.cache
+C:\Users\2sust\source\repos\OOP_LABS\UKit\UKit\obj\Release\UKit.dll
+C:\Users\2sust\source\repos\OOP_LABS\UKit\UKit\obj\Release\UKit.pdb
+C:\Users\2sust\source\repos\OOP_LABS\UKit\UKit\obj\Release\UKit.csproj.AssemblyReference.cache
