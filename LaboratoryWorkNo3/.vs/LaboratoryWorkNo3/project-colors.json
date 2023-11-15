@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89b947c5-6f6f-4b31-836c-e690332ae9de": {
+      "ProjectGuid": "89b947c5-6f6f-4b31-836c-e690332ae9de",
+      "DisplayName": "LaboratoryWorkNo3",
+      "ColorIndex": 0
+    },
+    "171a0613-b807-4b80-a610-0c3b4be3a3be": {
+      "ProjectGuid": "171a0613-b807-4b80-a610-0c3b4be3a3be",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
